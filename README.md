@@ -26,7 +26,6 @@ Proyecto que mide el rendimiento de 7 algoritmos clásicos de ordenamiento, gene
 
 - Compilador C++11 (g++ o clang)
 - CMake (opcional)
-- Python 3 (para visualización)
 
 ## 🚀 Compilación y Ejecución
 
