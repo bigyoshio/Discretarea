@@ -1,6 +1,6 @@
 # Análisis Comparativo de Algoritmos de Ordenamiento
 
-![Ejemplo de gráfica de resultados]()
+![Ejemplo de gráfica de resultados](https://github.com/bigyoshio/Discretarea/blob/main/Gráfica.png)
 
 Proyecto que mide el rendimiento de 7 algoritmos clásicos de ordenamiento, generando reportes en CSV y análisis visuales.
 
