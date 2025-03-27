@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1743110296 source:c:\users\alb3r\onedrive\documentos\programacion\discretas\procesos.cpp
+	"Procesos.h"
+	"sorts.h"
+	<iostream>
+	<fstream>
+	<random>
+	<iomanip>
+	<chrono>
+	<algorithm>
+
+1743107241 c:\users\alb3r\onedrive\documentos\programacion\discretas\procesos.hpp
+	<vector>
+	<string>
+
+1743107241 c:\users\alb3r\onedrive\documentos\programacion\discretas\sorts.hpp
+	<vector>
+
+1743110057 source:c:\users\alb3r\onedrive\documentos\programacion\discretas\sorts.cpp
+	"sorts.h"
+	<algorithm>
+	<vector>
+
+1743110329 source:c:\users\alb3r\onedrive\documentos\programacion\discretas\main.cpp
+	"Procesos.h"
+	"Sorts.h"
+	<iostream>
+
+1743112084 c:\users\alb3r\onedrive\documentos\programacion\discretas\procesos.h
+	<vector>
+	<string>
+
+1743107592 c:\users\alb3r\onedrive\documentos\programacion\discretas\sorts.h
+	<vector>
+
